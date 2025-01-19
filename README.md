@@ -1,10 +1,32 @@
-# quiz_app
+# Quiz App
 
-A new Flutter project.
+A Flutter-based quiz application with gamification features.
 
-## Getting Started
+## Features
+- Fetch quiz data from API.
+- Multiple-choice questions.
+- Summary of results with total points.
+- Gamification (progress bar, achievements).
 
-This project is a starting point for a Flutter application.
+## Setup Instructions
+1. Clone the repository.
+2. Run `flutter pub get`.
+3. Run the app using `flutter run`.
+
+## Screenshots
+![Home Screen]![Screenshot_1737314924](https://github.com/user-attachments/assets/8e1bb6eb-442d-4702-bb35-1efdd6c9b8bf)
+
+![Quiz Screen]![Screenshot_1737314964](https://github.com/user-attachments/assets/4e3315b3-fcdc-4837-962a-78474352599b)
+
+![Result Screen]![Screenshot_1737315019](https://github.com/user-attachments/assets/9414b18b-6bd4-43a8-8911-e34d2f48aded)
+
+
+## Video Walkthrough
+
+
+## Credits
+Developed by Vaishnavi Singh.
+
 
 A few resources to get you started if this is your first Flutter project:
 
